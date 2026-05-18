@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ... i dont work<br>- 📚 I'm currently learning ... somethting<br>- ⚡ In my free time I ... i dont have free time</p>
+<p align="left">I'm ... from .... nowhere<br><br>- 🔭 I’m working as ... i dont work<br>- 📚 I'm currently learning ... somethting<br>- ⚡ In my free time I ... i dont have free time</p>
 
 ###
 
